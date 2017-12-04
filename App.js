@@ -14,6 +14,7 @@ import Foo from "./components/timer";
 
 
 
+
 export const SimpleApp = StackNavigator({
 	
 	Home: {
